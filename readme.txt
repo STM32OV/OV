@@ -14,3 +14,8 @@ The electronics are now built by hand but we can easily turn it into a PCB shiel
 
 Should you be a doctor in need of such systems, get in touch with us at stm32openv@gmail.com, contacting us on github or leaving comments on youtube. Shall the addresses change we will make sure to update you.
 
+Online Resources
+github.com/stm32openv
+Live feed: twich.tv/stm32openv
+Youtube: https://www.youtube.com/watch?v=p47dtsTrSBI
+Support us: bc1qvfh9pt93a0lfqc73k87yw9q587tgxdwmyswrv8
