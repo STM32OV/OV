@@ -23,3 +23,5 @@ Support us: bc1qvfh9pt93a0lfqc73k87yw9q587tgxdwmyswrv8
 In order to compile, use STM32 Workbench. I'm using the provided libraries in the version STM32Cube_FW_F4_V1.21.0.
 To compile you can copy the provided folder into en.stm32cubef4\STM32Cube_FW_F4_V1.21.0\Projects\STM32F4-Discovery\Examples\UART\Ventilator
 
+The pressure sensors used are MPXV5004MP (x2)
+
