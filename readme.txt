@@ -10,7 +10,7 @@ One concern for now is that the fingers have a tendency to leave a mark on the a
 
 The controller is built around the STM32F407VGT6 Disco breakout board.
 
-The electronics are now built by hand but we can easily turn it into a PCB shield to be stacked onto the arduino.
+The electronics are now built by hand but we can easily turn it into a PCB shield to be stacked onto the stm32F407 disco board.
 
 Should you be a doctor in need of such systems, get in touch with us at stm32openv@gmail.com, contacting us on github or leaving comments on youtube. Shall the addresses change we will make sure to update you.
 
