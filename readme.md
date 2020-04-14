@@ -35,10 +35,10 @@ The plot on the upper right side can be obtained by using arduino's serial plott
 * TODO create an OpenGL display on the computer that can display parameters and plot graphs at high resolutions
 
 ## Online Resources
-github.com/stm32openv
-Live feed: twich.tv/stm32openv
-Youtube: https://www.youtube.com/watch?v=p47dtsTrSBI
-Support us: bc1qvfh9pt93a0lfqc73k87yw9q587tgxdwmyswrv8
+* https://www.github.com/stm32openv
+* https://www.twich.tv/stm32openv
+* https://www.youtube.com/watch?v=p47dtsTrSBI
+* Support us: bc1qvfh9pt93a0lfqc73k87yw9q587tgxdwmyswrv8
 
 ## Contributing
 
