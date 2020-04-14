@@ -8,11 +8,18 @@ STM32Cube_FW_F4_V1.21.0 and System Workbench for STM32. The software was built o
 
 ## Getting Started
 
-Download all the files. Adjust to you ambu's dimensions and 3D print the ones in the STM32OV folder. Get your hands on 3+ servos with >= 20kg*cm torque that support an update at 200Hz. Get your hand on a shield or build it according to the schematics. You will also need 2x pressure sensors MPXV5004DP.
+Download all the files. Adjust to you ambu's dimensions and 3D print the ones in the STM32OV folder. Get your hands on the part list. Follow the assembly tutorial.
 
 For the software, it runs on en.stm32cubef4\STM32Cube_FW_F4_V1.21.0. Set up your working directory in \Projects\STM32F4-Discovery\Examples\UART\UART_Ventilator. This will allow the compiler to link and compile external driver dependencies. Use System Workbench for STM32 as working environement.
 
-## Hardware setup
+## Parts
+ 
+* Pressure sensor: MPXV5004DP https://www.digikey.ca/products/en/sensors-transducers/pressure-sensors-transducers/512?k=MPXV5004DP
+* Servos: Any brushless servo with at least 25kg*cm torque and 200Hz update rate. 
+* STM32F407 Disco board: https://www.digikey.ca/product-detail/en/stmicroelectronics/STM32F407G-DISC1/497-16287-ND/5824404
+* STM32F407 shield: get in touch with us we'll make it available.
+
+## Hardware setup 
 
 ![GitHub Logo](/images/ventilator_setup.png)
 
