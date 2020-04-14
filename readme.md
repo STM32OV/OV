@@ -8,7 +8,7 @@ STM32Cube_FW_F4_V1.21.0 and System Workbench for STM32. The software was built o
 
 ## Getting Started
 
-Download all the files. Adjust to you ambu's dimensions and 3D print the ones in the STM32OV folder. Get your hands on 3+ servos with >= 20kg*cm torque that support an update at 200Hz. Get your hand on a shield or build it according to the schematics.
+Download all the files. Adjust to you ambu's dimensions and 3D print the ones in the STM32OV folder. Get your hands on 3+ servos with >= 20kg*cm torque that support an update at 200Hz. Get your hand on a shield or build it according to the schematics. You will also need 2x pressure sensors MPXV5004DP.
 
 For the software, it runs on en.stm32cubef4\STM32Cube_FW_F4_V1.21.0. Set up your working directory in \Projects\STM32F4-Discovery\Examples\UART\UART_Ventilator. This will allow the compiler to link and compile external driver dependencies. Use System Workbench for STM32 as working environement.
 
@@ -17,6 +17,7 @@ For the software, it runs on en.stm32cubef4\STM32Cube_FW_F4_V1.21.0. Set up your
 ![GitHub Logo](/images/ventilator_setup.png)
 
 The plot on the upper right side can be obtained by using arduino's serial plotter on a computer connected on the serial port.
+Note: the pressure sensors have 2 ports. Use the upper one, as it's specified in the datasheet that it's the one that is protected from ingress or water damage. Connect the 3 active pins to a servo connector using the pinout Sgnl, 5V, Gnd.
 
 ## Hardware development
 
@@ -24,7 +25,7 @@ The plot on the upper right side can be obtained by using arduino's serial plott
 * TODO air mixing chamber to be added and O2 sensors to measure and control input oxygen concentration.
 * TODO air warmer and humidifier.
 * TODO a proper back-pressure PEEP valve controllable by other servos on the output.
-* TODO air filter the output
+* TODO air filter on the output
 * TODO battery backup
 
 ## Software development
@@ -56,3 +57,5 @@ This project is licensed under the MIT License - see the [license.md](license.md
 ## Acknowledgments
 
 * Special thanks to ST7565 LCD library! Copyright (C) 2010 Limor Fried, Adafruit Industries. The library was modified to provide 1 grayscale level.
+* Special thanks to ST Microelectronics for the SDK and all the example code.
+
