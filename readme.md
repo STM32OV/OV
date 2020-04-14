@@ -30,7 +30,7 @@ The plot on the upper right side can be obtained by using arduino's serial plott
 
 * TODO plot flow
 * TODO finalize PRVC mode
-* TODO detect servo failures and create a certain recognizable alarm sound. Has to adapt strength to compensate
+* TODO detect servo failures and create a certain alarm sound. Adapt strength to compensate
 * TODO display measured values on the upper side of the LCD display
 * TODO create an OpenGL display on the computer that can display parameters and plot graphs at high resolutions
 
