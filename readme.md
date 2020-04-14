@@ -20,18 +20,25 @@ The plot on the upper right side can be obtained by using arduino's serial plott
 
 ## Current limitations
 
-*TODO air mixing chamber to be added and O2 sensors to measure and control input oxygen concentration.
-*TODO air warmer and humidifier.
-*TODO a proper back-pressure PEEP valve controllable by other servos on the output.
-*TODO air filter the output
+* TODO Shield PCB
+* TODO air mixing chamber to be added and O2 sensors to measure and control input oxygen concentration.
+* TODO air warmer and humidifier.
+* TODO a proper back-pressure PEEP valve controllable by other servos on the output.
+* TODO air filter the output
 
 ## Software development
 
-*TODO plot flow
-*TODO finalize PRVC mode
-*TODO detect servo failures and create a certain recognizable alarm sound. Has to adapt strength to compensate
-*TODO display measured values on the upper side of the LCD display
-*TODO create an OpenGL display on the computer that can display parameters and plot graphs at high resolutions
+* TODO plot flow
+* TODO finalize PRVC mode
+* TODO detect servo failures and create a certain recognizable alarm sound. Has to adapt strength to compensate
+* TODO display measured values on the upper side of the LCD display
+* TODO create an OpenGL display on the computer that can display parameters and plot graphs at high resolutions
+
+## Online Resources
+github.com/stm32openv
+Live feed: twich.tv/stm32openv
+Youtube: https://www.youtube.com/watch?v=p47dtsTrSBI
+Support us: bc1qvfh9pt93a0lfqc73k87yw9q587tgxdwmyswrv8
 
 ## Contributing
 
