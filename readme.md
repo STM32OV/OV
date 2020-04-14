@@ -18,13 +18,14 @@ For the software, it runs on en.stm32cubef4\STM32Cube_FW_F4_V1.21.0. Set up your
 
 The plot on the upper right side can be obtained by using arduino's serial plotter on a computer connected on the serial port.
 
-## Current limitations
+## Hardware development
 
 * TODO Shield PCB
 * TODO air mixing chamber to be added and O2 sensors to measure and control input oxygen concentration.
 * TODO air warmer and humidifier.
 * TODO a proper back-pressure PEEP valve controllable by other servos on the output.
 * TODO air filter the output
+* TODO battery backup
 
 ## Software development
 
