@@ -14,7 +14,7 @@ For the software, it runs on en.stm32cubef4\STM32Cube_FW_F4_V1.21.0. Set up your
 
 ## Hardware setup
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/images/ventilator_setup.png)
 Format: ![Alt Text](url)
 
 ## Contributing
