@@ -29,6 +29,7 @@ For the software, it runs on en.stm32cubef4\STM32Cube_FW_F4_V1.21.0. Set up your
 * Pressure sensor: MPXV5004DP https://www.digikey.ca/products/en/sensors-transducers/pressure-sensors-transducers/512?k=MPXV5004DP
 * Servos: Any brushless servo with at least 25kg*cm torque and 200Hz update rate. 
 * STM32F407 Disco board: https://www.digikey.ca/product-detail/en/stmicroelectronics/STM32F407G-DISC1/497-16287-ND/5824404
+* Adjustable PEEP valve: Something like this https://www.ebay.ca/itm/Ambu-PEEP-Ventil-Valve-10-fur-Beatmungsbeutel-Beatmung-Reanimation/293532262144?hash=item4457e2df00:g:DFMAAOSw6IdcQypx
 * STM32F407 shield: get in touch with us we'll make it available.
 
 ## Hardware setup 
