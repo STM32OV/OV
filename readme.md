@@ -16,7 +16,7 @@ Using the STM32F407 micrcontroller has some advantages over many others:
 * Available on a pcb with crystal clock and in high quantities.
 * Using an serial connection to a laptop and a remote OpenGL display appliation allows us to separate the realtime and critical portion of the software from the display.
 
-Additionally, pressur and current consumption of the servos is monitored, which allows us to detect defects early and ring alarms.
+Additionally, pressure and current consumption of the servos is monitored, which allows us to detect defects early and ring alarms.
 
 ## Getting Started
 
