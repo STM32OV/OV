@@ -31,6 +31,7 @@ For the software, it runs on en.stm32cubef4\STM32Cube_FW_F4_V1.21.0. Set up your
 * STM32F407 Disco board: https://www.digikey.ca/product-detail/en/stmicroelectronics/STM32F407G-DISC1/497-16287-ND/5824404
 * Adjustable PEEP valve: Something like this https://www.ebay.ca/itm/Ambu-PEEP-Ventil-Valve-10-fur-Beatmungsbeutel-Beatmung-Reanimation/293532262144?hash=item4457e2df00:g:DFMAAOSw6IdcQypx
 * Electronic humidifer and warmer: https://www.medicalexpo.com/prod/wilamed/product-70540-428587.html
+* Oxygen sensor: https://www.sgxsensortech.com/content/uploads/2014/07/A1A-EC410-EC410-Datasheet-V4.pdf
 * STM32F407 shield: get in touch with us we'll make it available.
 
 ## Hardware setup 
