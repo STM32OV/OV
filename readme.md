@@ -9,11 +9,14 @@ STM32Cube_FW_F4_V1.21.0 and System Workbench for STM32. The software was built o
 ## Advantages
 
 Using the STM32F407 micrcontroller has some advantages over many others:
-* 16 bit timers with more than 8x PWM outputs. This allows us to control servos without sacrificing precion nor update speed.
-* Supports analog sensors, i2c and spi. 12b ADC.
+
+* 16 bit timers with more than 8x PWM outputs. This allows us to control servos without sacrificing precion while usin 200Hz pwm.
+* Supports analog (12 bit ADC) sensors, i2c and spi.
 * 186 Mhz Arm core, which is enough for most demanding algorithms as well as an embedded display on the controller.
 * Available on a pcb with crystal clock and in high quantities.
-* Using an serial connection to a laptop and a remote OpenGL display appliation allows us to separate the realtime and critical portion of the software from the display. This seems to be the most effective solution while at the same time conserving a 
+* Using an serial connection to a laptop and a remote OpenGL display appliation allows us to separate the realtime and critical portion of the software from the display.
+
+Additionally, pressur and current consumption of the servos is monitored, which allows us to detect defects early and ring alarms.
 
 ## Getting Started
 
